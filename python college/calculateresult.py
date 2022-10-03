@@ -19,3 +19,4 @@ def cal_result(maths,eng,sci):
 
 
 cal_result(50,72,88)
+#blabla blabla
